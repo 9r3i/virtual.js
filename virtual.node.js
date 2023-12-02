@@ -118,3 +118,5 @@ this.exec=function(s,t,i){
   return c;
 };
 };
+
+exports.virtual=virtual;
